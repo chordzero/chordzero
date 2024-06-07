@@ -1,13 +1,13 @@
 ## Status
-![Chordzero's GitHub stats](https://github-readme-stats.vercel.app/api?username=chordzero&show_icons=true&title_color=00fea2&text_color=bbb&bg_color=000&icon_color=00fea2)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chordzero&layout=compact&title_color=00fea2&text_color=bbb&bg_color=000&icon_color=00fea2)](https://github.com/anuraghazra/github-readme-stats)
+![Chordzero's GitHub stats](https://github-readme-stats.vercel.app/api?username=chordzero&show_icons=true&title_color=00fea2&text_color=bbb&bg_color=000&icon_color=00fea2&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chordzero&layout=compact&title_color=00fea2&text_color=bbb&bg_color=000&icon_color=00fea2&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Like
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
 
-## Learn
+## Learning
 ![Static Badge](https://img.shields.io/badge/rust-orange?style=for-the-badge&logo=rust)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
